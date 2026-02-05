@@ -1,9 +1,9 @@
 import math
 
 class Rectangle():
-    # Create the constructor "__init__" method
-
-    # YOUR CODE HERE
+    def __init__(self, width, height):
+        self.width = width
+        self.height = height
 
 
 
